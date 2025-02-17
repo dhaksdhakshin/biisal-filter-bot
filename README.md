@@ -47,7 +47,7 @@ For more information of the project, please refer to the [FEATURES PAGE](https:/
 
 ## Disclaimer
 
-This repository is provided for educational purposes only. It is not intended for personal or commercial gain. Use of this repository and the code within is at your own risk. The authors and contributors are not responsible for any misuse or damage caused by the use of this project.
+This repository is provided for educational purposes only. It is not intended for personal or commercial gain. Use of this repository and the code within is at your own risk. The authors and contributors are not responsible for any misuse or damage caused by the use of this project...
 
 ## License
 
