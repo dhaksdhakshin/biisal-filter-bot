@@ -19,7 +19,7 @@ class Bot(Client):
         super().__init__(
             name='direct-bot_2',
             api_id=API_ID,
-            api_hash=API_HASH,
+            api_hash=API_HASH, 
             bot_token=BOT_TOKEN,
             sleep_threshold=5,
             workers=150,
