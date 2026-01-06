@@ -81,7 +81,7 @@ class Bot(Client):
                 
             offset (``int``, *optional*):
                 Identifier of the first message to be returned.
-                Defaults to 0.
+                Defaults to 0. 
         Returns:
             ``Generator``: A generator yielding :obj:`~pyrogram.types.Message` objects.
         Example:
