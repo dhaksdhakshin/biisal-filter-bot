@@ -23,7 +23,7 @@ class Bot(Client):
             bot_token=BOT_TOKEN,
             sleep_threshold=5,
             workers=150,
-            plugins={"root": "plugins"}
+            plugins={"root": "plugins"} 
         )
         
     async def start(self):
