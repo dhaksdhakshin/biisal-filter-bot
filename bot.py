@@ -87,7 +87,7 @@ class Bot(Client):
         Example:
             .. code-block:: python
                 for message in app.iter_messages("pyrogram", 1, 15000):
-                    print(message.text)
+                    print(message.text) 
         """
         current = offset
         while True:
